@@ -37,8 +37,8 @@
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [알림 시스템 API 문서](https://your-api-link.com/)
-- **시연 영상**:  
-  ![도둑 감지 영상](https://user-images.githubusercontent.com/yourusername/your-video-file2.mp4)
+- **시연 영상**:
+- (https://github.com/godeboon/PROJECT/blob/main/%ED%8F%90%EC%82%AC%EC%A7%84.png)
 
 
 
