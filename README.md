@@ -16,7 +16,7 @@
 - **시연 영상**:  
   ![유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
 - **주피터 노트북**:
-  -[구글 코렙 주피터 노트북](https://colab.research.google.com/drive/10T3gny4yTCei7-lco7iQODxszWveISMG?usp=sharing)
+  -[구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1lYpuOla0gOKrLWcdX-FxwTG5v49Nghce?usp=sharing)
 
 ---
 
