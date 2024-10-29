@@ -13,7 +13,8 @@
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
-- **시연 영상**:  
+- **시연 영상**:
+  ![이미지설명](https://github.com/godeboon/PROJECT/blob/main/newyorkwalking.png)
   ![유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
 - **주피터 노트북**:
   -[구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1lYpuOla0gOKrLWcdX-FxwTG5v49Nghce?usp=sharing)
