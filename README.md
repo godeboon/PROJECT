@@ -15,6 +15,8 @@
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
   ![유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
+- **주피터 노트북**:
+  -[구글 코렙 주피터 노트북](https://colab.research.google.com/drive/10T3gny4yTCei7-lco7iQODxszWveISMG?usp=sharing)
 
 ---
 
@@ -28,6 +30,18 @@
   ![도둑 감지 영상](https://user-images.githubusercontent.com/yourusername/your-video-file2.mp4)
 
 ---
+
+### 2. 엑스레이 사진에서 폐결절 찾는 신경망 
+- **프로젝트 설명**: 이 프로젝트는 x-ray 사진을 분석하여 폐결절을 자동으로 탐지하고, 의료진이 더 정확한 진단을 내리는데 도움이 되도록함 
+- **주요 기능**: 실시간 침입자 감지, 위험 알림, 비상 조치 기능.
+- **관련 링크**:
+  - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
+  - [알림 시스템 API 문서](https://your-api-link.com/)
+- **시연 영상**:  
+  ![도둑 감지 영상](https://user-images.githubusercontent.com/yourusername/your-video-file2.mp4)
+
+
+
 
 ### 3. 차량 흐름 분석 파일럿 프로젝트
 - **프로젝트 설명**: 도로 영상에서 차량 객체를 감지하고, 차량 흐름을 분석하여 교통 밀집도를 예측.
