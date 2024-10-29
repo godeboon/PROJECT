@@ -38,7 +38,7 @@
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [알림 시스템 API 문서](https://your-api-link.com/)
 - **시연 영상**:
-- (https://github.com/godeboon/PROJECT/blob/main/%ED%8F%90%EC%82%AC%EC%A7%84.png)
+  ![이미지 설명](https://raw.githubusercontent.com/godeboon/PROJECT/main/%ED%8F%90%EC%82%AC%EC%A7%84.png)
 
 
 
